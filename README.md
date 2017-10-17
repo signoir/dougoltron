@@ -1,3 +1,3 @@
-# Aeon
+# dougoltron
 
-A quick description of Aeon
+One codebase to create application (webapps, desktop, mobile) that work in linux, mac, windows, browser, ios, & android.
