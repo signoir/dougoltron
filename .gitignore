@@ -22,4 +22,5 @@ release/
 platforms/
 app.db/
 resources/ios
+resources/android
 .idea
