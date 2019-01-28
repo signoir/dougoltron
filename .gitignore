@@ -13,3 +13,13 @@ Thumbs.db
 /src/plugins
 /src/www/build/
 /src/.tmp/
+.vscode
+/dist/*
+.sourcemaps/
+plugins/*
+www/
+release/
+platforms/
+app.db/
+resources/ios
+.idea
